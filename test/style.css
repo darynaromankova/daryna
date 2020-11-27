@@ -1,0 +1,31 @@
+.block{
+	border:5px solid red;
+    max-width: 800px;
+    height:2000px;}
+.block_1{ 
+max-height: 50px;
+text-align: center;
+font-size: 18px;
+font-weight: 70px;
+position: relative;
+top:100px;
+left:10px;
+width:200px;
+height:100px;
+z-index:8;
+}
+.block_2 { max-height: 50px;
+text-align: center;
+font-size: 18px;
+font-weight: 70px;
+z-index: 5;
+position: sticky;
+top:0;}
+.block_3{max-height: 50px;
+text-align: center;
+font-size: 18px;
+font-weight: 70px;
+position: relative;
+}
+
+}
